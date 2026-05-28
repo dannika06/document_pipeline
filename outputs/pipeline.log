@@ -1,0 +1,3 @@
+2026-05-28 14:40:15,631 [+] [INFO] Skipping doc1.pdf (output already exists at c:\Users\dcova\Downloads\CS397\document_pipeline\document_pipeline\src\..\outputs\doc1.md)
+2026-05-28 14:40:15,633 [+] [INFO] Skipping DOCX_TestPage.docx (output already exists at c:\Users\dcova\Downloads\CS397\document_pipeline\document_pipeline\src\..\outputs\DOCX_TestPage.md)
+2026-05-28 14:40:15,634 [+] [INFO] Skipping sample-1.pptx (output already exists at c:\Users\dcova\Downloads\CS397\document_pipeline\document_pipeline\src\..\outputs\sample-1.md)
